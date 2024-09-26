@@ -18,10 +18,11 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+![image](https://github.com/user-attachments/assets/92d4c24f-ee53-4080-8950-e95d8588bd50)
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/MalakHisham121/front-end-challenges/tree/main/blog-preview-card
 
 ### Built with
 
